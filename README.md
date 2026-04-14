@@ -1,3 +1,4 @@
+[Connect To Firebase.webm](https://github.com/user-attachments/assets/5ef48fc6-38d0-4fc7-917e-97459ce49313)
 # Shopping List
 
 **Proyek Pembelajaran** - Aplikasi ini dibuat hanya untuk tujuan pembelajaran dan eksplorasi Flutter. Tidak untuk distribusi atau penggunaan komersial.
